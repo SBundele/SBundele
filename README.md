@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I am Sourabh Bundele
 <h1>Github Stats</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=SBundele&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBundele&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=SBundele&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBundele&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="400">
 
 <!--
 **SBundele/SBundele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
