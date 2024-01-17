@@ -24,7 +24,7 @@
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SBundele&theme=vue-dark&hide_border=true" alt="sbundele" width="400">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SBundele&theme=vue-dark&hide_border=true" alt="sbundele" width="350">
 </p>
 
 <p>&nbsp;
