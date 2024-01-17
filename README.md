@@ -20,15 +20,15 @@
 
 <h3>Github Stats</h3>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SBundele&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="sbundele">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SBundele&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="sbundele" width="400">
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SBundele&theme=vue-dark&hide_border=true" alt="sbundele">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SBundele&theme=vue-dark&hide_border=true" alt="sbundele" width="400">
 </p>
 &nbsp;
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBundele&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="sbundele">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBundele&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="sbundele" width="400">
 </p>
 
 <!--
