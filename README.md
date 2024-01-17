@@ -26,8 +26,8 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SBundele&theme=vue-dark&hide_border=true" alt="sbundele" width="350">
 </p>
-
-<p>&nbsp;
+&nbsp;
+<p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBundele&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="sbundele" width="300">
 </p>
 
