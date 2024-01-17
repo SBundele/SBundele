@@ -28,7 +28,7 @@
 </p>
 &nbsp;
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBundele&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="sbundele">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBundele&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="sbundele">
 </p>
 
 <!--
