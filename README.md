@@ -20,7 +20,7 @@
 
 <h3>Github Stats</h3>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SBundele&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="sbundele" width="400">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SBundele&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="sbundele" width="300">
 </p>
 
 <p>&nbsp;
@@ -28,7 +28,7 @@
 </p>
 
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBundele&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="sbundele" width="400">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBundele&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="sbundele" width="300">
 </p>
 
 <!--
