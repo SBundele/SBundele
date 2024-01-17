@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbundele&label=Profile%20views&color=0e75b6&style=flat" alt="sbundele" /> </p>
 
-- 💬 Ask me about **Python, JavaScript, HTML and CSS**
+- 💬 Ask me about: **Python, JavaScript, HTML and CSS**
 
-- 📫 How to reach me **sbundele0318@gmail.com**
+- 📫 Reach me at: **sbundele0318@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wd980bbR91FKIUABJPUbTQ0hqX7lLzh7/view?usp=sharing](https://drive.google.com/file/d/1Wd980bbR91FKIUABJPUbTQ0hqX7lLzh7/view?usp=sharing)
+- 📄 Resume: [https://drive.google.com/file/d/1Wd980bbR91FKIUABJPUbTQ0hqX7lLzh7/view?usp=sharing](https://drive.google.com/file/d/1Wd980bbR91FKIUABJPUbTQ0hqX7lLzh7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +28,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBundele&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="sbundele" width="400">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBundele&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="sbundele" width="400">
 </p>
 
 <!--
