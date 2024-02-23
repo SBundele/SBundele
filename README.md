@@ -29,6 +29,6 @@ Feel free to explore my GitHub repositories to see more of my work!
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sourabh-bundele/)
-- [Portfolio:](https://sourabh0318-portfolio.netlify.app/)
+- [Portfolio](https://sourabh0318-portfolio.netlify.app/)
 
 Let's connect and collaborate on exciting projects together!
