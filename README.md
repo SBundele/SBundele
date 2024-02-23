@@ -18,17 +18,17 @@ I am a dedicated and enthusiastic Full Stack Developer with a strong foundation 
 
 Here are a few projects I've been working on:
 
-**Project 1:** Maze-Solver https://github.com/SBundele/Maze_Solver
+**Project 1:** [Maze-Solver](https://github.com/SBundele/Maze_Solver)
 
-**Project 2:** Typing-Test https://github.com/SBundele/Typing_Master
+**Project 2:** [Typing-Test](https://github.com/SBundele/Typing_Master)
 
-**Project 3:** Youtube-Music-Downloader https://github.com/SBundele/Youtube_Music_Downloader
+**Project 3:** [Youtube-Downloader](https://github.com/SBundele/Youtube_Music_Downloader)
 
 Feel free to explore my GitHub repositories to see more of my work!
 
 ## Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/sourabh-bundele/
-- Portfolio: https://sourabh0318-portfolio.netlify.app/
+- [LinkedIn](https://www.linkedin.com/in/sourabh-bundele/)
+- [Portfolio:](https://sourabh0318-portfolio.netlify.app/)
 
 Let's connect and collaborate on exciting projects together!
