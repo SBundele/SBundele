@@ -11,8 +11,8 @@ I am a dedicated and enthusiastic Full Stack Developer with a strong foundation 
 ## Skills
 
 - **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Python, NodeJS, ExpressJS
-- **Other Technologies:** Git, Bootstrap
+- **Backend:** Python, NodeJS, ExpressJS, MongoDB
+- **Other Technologies:** Git, Bootstrap, TailwindCSS
 
 ## Projects
 
